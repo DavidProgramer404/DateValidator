@@ -1,0 +1,61 @@
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\MVC\DateValidator\bin\Debug\net6.0\appsettings.Development.json
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\MVC\DateValidator\bin\Debug\net6.0\appsettings.json
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\MVC\DateValidator\bin\Debug\net6.0\DateValidator.staticwebassets.runtime.json
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\MVC\DateValidator\bin\Debug\net6.0\DateValidator.exe
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\MVC\DateValidator\bin\Debug\net6.0\DateValidator.deps.json
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\MVC\DateValidator\bin\Debug\net6.0\DateValidator.runtimeconfig.json
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\MVC\DateValidator\bin\Debug\net6.0\DateValidator.dll
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\MVC\DateValidator\bin\Debug\net6.0\DateValidator.pdb
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\MVC\DateValidator\obj\Debug\net6.0\DateValidator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\MVC\DateValidator\obj\Debug\net6.0\DateValidator.AssemblyInfoInputs.cache
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\MVC\DateValidator\obj\Debug\net6.0\DateValidator.AssemblyInfo.cs
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\MVC\DateValidator\obj\Debug\net6.0\DateValidator.csproj.CoreCompileInputs.cache
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\MVC\DateValidator\obj\Debug\net6.0\DateValidator.MvcApplicationPartsAssemblyInfo.cache
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\MVC\DateValidator\obj\Debug\net6.0\DateValidator.RazorAssemblyInfo.cache
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\MVC\DateValidator\obj\Debug\net6.0\DateValidator.RazorAssemblyInfo.cs
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\MVC\DateValidator\obj\Debug\net6.0\staticwebassets\msbuild.DateValidator.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\MVC\DateValidator\obj\Debug\net6.0\staticwebassets\msbuild.build.DateValidator.props
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\MVC\DateValidator\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DateValidator.props
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\MVC\DateValidator\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DateValidator.props
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\MVC\DateValidator\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\MVC\DateValidator\obj\Debug\net6.0\staticwebassets.build.json
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\MVC\DateValidator\obj\Debug\net6.0\staticwebassets.development.json
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\MVC\DateValidator\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\MVC\DateValidator\obj\Debug\net6.0\scopedcss\bundle\DateValidator.styles.css
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\MVC\DateValidator\obj\Debug\net6.0\scopedcss\projectbundle\DateValidator.bundle.scp.css
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\MVC\DateValidator\obj\Debug\net6.0\DateValidator.dll
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\MVC\DateValidator\obj\Debug\net6.0\refint\DateValidator.dll
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\MVC\DateValidator\obj\Debug\net6.0\DateValidator.pdb
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\MVC\DateValidator\obj\Debug\net6.0\DateValidator.genruntimeconfig.cache
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\MVC\DateValidator\obj\Debug\net6.0\ref\DateValidator.dll
+C:\Users\david\OneDrive\Escritorio\csharp console\DateValidator\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\david\OneDrive\Escritorio\csharp console\DateValidator\bin\Debug\net6.0\appsettings.json
+C:\Users\david\OneDrive\Escritorio\csharp console\DateValidator\bin\Debug\net6.0\DateValidator.staticwebassets.runtime.json
+C:\Users\david\OneDrive\Escritorio\csharp console\DateValidator\bin\Debug\net6.0\DateValidator.exe
+C:\Users\david\OneDrive\Escritorio\csharp console\DateValidator\bin\Debug\net6.0\DateValidator.deps.json
+C:\Users\david\OneDrive\Escritorio\csharp console\DateValidator\bin\Debug\net6.0\DateValidator.runtimeconfig.json
+C:\Users\david\OneDrive\Escritorio\csharp console\DateValidator\bin\Debug\net6.0\DateValidator.dll
+C:\Users\david\OneDrive\Escritorio\csharp console\DateValidator\bin\Debug\net6.0\DateValidator.pdb
+C:\Users\david\OneDrive\Escritorio\csharp console\DateValidator\obj\Debug\net6.0\DateValidator.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Escritorio\csharp console\DateValidator\obj\Debug\net6.0\DateValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Escritorio\csharp console\DateValidator\obj\Debug\net6.0\DateValidator.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Escritorio\csharp console\DateValidator\obj\Debug\net6.0\DateValidator.AssemblyInfo.cs
+C:\Users\david\OneDrive\Escritorio\csharp console\DateValidator\obj\Debug\net6.0\DateValidator.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Escritorio\csharp console\DateValidator\obj\Debug\net6.0\DateValidator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\david\OneDrive\Escritorio\csharp console\DateValidator\obj\Debug\net6.0\DateValidator.RazorAssemblyInfo.cache
+C:\Users\david\OneDrive\Escritorio\csharp console\DateValidator\obj\Debug\net6.0\DateValidator.RazorAssemblyInfo.cs
+C:\Users\david\OneDrive\Escritorio\csharp console\DateValidator\obj\Debug\net6.0\staticwebassets\msbuild.DateValidator.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\david\OneDrive\Escritorio\csharp console\DateValidator\obj\Debug\net6.0\staticwebassets\msbuild.build.DateValidator.props
+C:\Users\david\OneDrive\Escritorio\csharp console\DateValidator\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DateValidator.props
+C:\Users\david\OneDrive\Escritorio\csharp console\DateValidator\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DateValidator.props
+C:\Users\david\OneDrive\Escritorio\csharp console\DateValidator\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\david\OneDrive\Escritorio\csharp console\DateValidator\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\david\OneDrive\Escritorio\csharp console\DateValidator\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\david\OneDrive\Escritorio\csharp console\DateValidator\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\david\OneDrive\Escritorio\csharp console\DateValidator\obj\Debug\net6.0\scopedcss\bundle\DateValidator.styles.css
+C:\Users\david\OneDrive\Escritorio\csharp console\DateValidator\obj\Debug\net6.0\scopedcss\projectbundle\DateValidator.bundle.scp.css
+C:\Users\david\OneDrive\Escritorio\csharp console\DateValidator\obj\Debug\net6.0\DateValidator.dll
+C:\Users\david\OneDrive\Escritorio\csharp console\DateValidator\obj\Debug\net6.0\refint\DateValidator.dll
+C:\Users\david\OneDrive\Escritorio\csharp console\DateValidator\obj\Debug\net6.0\DateValidator.pdb
+C:\Users\david\OneDrive\Escritorio\csharp console\DateValidator\obj\Debug\net6.0\DateValidator.genruntimeconfig.cache
+C:\Users\david\OneDrive\Escritorio\csharp console\DateValidator\obj\Debug\net6.0\ref\DateValidator.dll
